@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 이현규 :sunny:
-> - Hi there 👋
+> Hi there 👋
 ### [자세히보기](https://www.notion.so/thinkwisely/Naver-Boost-Camp-AI-Tech-ba743126e68749d58bdbb7af0580c8ee)
 
 <div align=right>
