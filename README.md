@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 이현규 :laughing:
+## 이현규 (Lee Hyeon Kyu)
 > Hi there 👋  
 > Here is My Notion ([link](https://www.notion.so/thinkwisely/Naver-Boost-Camp-AI-Tech-ba743126e68749d58bdbb7af0580c8ee))  
 > And here is My Blog ([link](https://lee-hyeon-kyu.tistory.com/))
+> Have a Great Day :laughing:
 
 <div align=right>
   
