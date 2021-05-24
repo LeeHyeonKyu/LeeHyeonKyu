@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## 이현규 (Lee Hyeon Kyu)
-> Hi there 👋  
+> Hi there 👋 Have a Great Day :laughing:  
+>  
 > Here is My Notion ([link](https://www.notion.so/thinkwisely/Naver-Boost-Camp-AI-Tech-ba743126e68749d58bdbb7af0580c8ee))  
-> And here is My Blog ([link](https://lee-hyeon-kyu.tistory.com/))
-> Have a Great Day :laughing:
+> And here is My Blog ([link](https://lee-hyeon-kyu.tistory.com/))  
 
 <div align=right>
   
