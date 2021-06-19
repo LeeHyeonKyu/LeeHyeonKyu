@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 이현규 (Lee Hyeon Kyu)
+## 이현규 (Hyeon Kyu Lee)
 > Hi there 👋 Have a Great Day :laughing:  
 >  
 > Here is My Notion ([link](https://www.notion.so/thinkwisely/Naver-Boost-Camp-AI-Tech-ba743126e68749d58bdbb7af0580c8ee))  
