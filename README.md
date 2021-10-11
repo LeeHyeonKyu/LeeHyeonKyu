@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 이현규 (Lee Hyeon Kyu)
 > Hi there 👋 Have a Great Day :laughing:  
 >  
-> Here is My Notion ([link](https://www.notion.so/thinkwisely/Naver-Boost-Camp-AI-Tech-ba743126e68749d58bdbb7af0580c8ee))  
+> Here is My Notion ([link](https://thinkwisely.notion.site/HyeonKyu-s-Page-7d09f73e5b5a420f9d9db0f7cd89b8b4))  
 > And here is My Blog ([link](https://lee-hyeon-kyu.tistory.com/))  
 
 <!--
